@@ -37,15 +37,7 @@ The app streamlines ahwa operations by providing an intuitive UI for order track
    flutter pub get
    ```
 
-3. **Add Assets (if needed):**
-   - Place the logo image in `assets/` and update `pubspec.yaml`:
-     ```
-     flutter:
-       assets:
-         - assets/logo.png
-     ```
-
-4. **Run the App:**
+3. **Run the App:**
    ```
    flutter run
    ```
@@ -102,7 +94,6 @@ smart-ahwa-manager-flutter/
 
 ### GIFs
 ![Add Order GIF](gif/gif.gif)  
-*Demonstration of adding an order (e.g., "Ahmed - Shai with extra mint") and updating the pending list.*
 
 
 *Last Updated: September 17, 2025*
